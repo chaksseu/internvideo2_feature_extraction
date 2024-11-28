@@ -12,7 +12,8 @@ __pycache__
 flash-attention/
 InternVideo/
 VideoMAEv2/flash-attention/
-
 .ipynb_checkpoints/
 models--OpenGVLab--InternVideo2-Stage1-1B-224p-f8/
 models--OpenGVLab--InternVideo2-Stage2_1B-224p-f4/
+.nfs*
+
